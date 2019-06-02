@@ -6,6 +6,9 @@
     },
     {
       "Account.AccountActivation.Activated": "Your account has been activated"
+    },
+    {
+      "Admin.Configuration.Currencies.AdditionalConfirm": "<p>WARNING. It is not recommended to do this on live sites because: </p><ol><li>Product prices, order totals, shipping rates, etc are not automatically converted to a new currency</li><li>Currency exhange rates are not automatically updated</li></ol>"
     }
   ]
 }

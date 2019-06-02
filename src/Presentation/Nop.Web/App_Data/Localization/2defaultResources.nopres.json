@@ -1,0 +1,11 @@
+{
+  "Name": "English",
+  "LocaleResource": [
+    {
+      "Account.AccountActivation": "Account activation"
+    },
+    {
+      "Account.AccountActivation.Activated": "Your account has been activated"
+    }
+  ]
+}
